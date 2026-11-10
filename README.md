@@ -1,4 +1,6 @@
-# DevOps Capstone Template
+# devops-capstone-project
+
+Customer Accounts microservice for the IBM DevOps Capstone Project. A RESTful Flask service to create, read, update, delete and list customer accounts, built with TDD, GitHub Actions CI, Docker, Kubernetes/OpenShift and a Tekton CD pipeline.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
